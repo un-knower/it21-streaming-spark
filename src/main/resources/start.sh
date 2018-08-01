@@ -1,0 +1,1 @@
+spark-submit --conf spark.speculation=false --class com.it21learning.Driver it21-streaming-spark-assembly-0.1.jar

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/it21-streaming-spark.iml" filepath="$PROJECT_DIR$/.idea/modules/it21-streaming-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/it21-streaming-spark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/it21-streaming-spark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/it21-streaming-spark_659.iml" filepath="$PROJECT_DIR$/.idea/modules/it21-streaming-spark_659.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/it21-streaming-spark_659-build.iml" filepath="$PROJECT_DIR$/.idea/modules/it21-streaming-spark_659-build.iml" />
+    </modules>
+  </component>
+</project>

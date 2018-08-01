@@ -1,0 +1,19 @@
+{
+    "namespace": "com.it21learning.streaming.model",
+    "type": "record",
+    "name": "Summary",
+    "fields": [
+        {"name": "start_time", "type": "string"},
+        {"name": "end_time", "type": "string"},
+        {"name": "symbol", "type": "string"},
+        {"name": "company_name", "type": "string"},
+        {"name": "open_price", "type": "double"},
+        {"name": "ask_price_mean", "type": "double"},
+        {"name": "ask_price_error", "type": "double"},
+        {"name": "bid_price_mean", "type": "double"},
+        {"name": "bid_price_error", "type": "double"},
+        {"name": "price_mean", "type": "double"},
+        {"name": "price_change", "type": "double"}
+    ]
+}
+
